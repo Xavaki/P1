@@ -20,4 +20,5 @@ Inside script run_length.py. Receives as arguments:
 ##### Exercise 5
 Inside script jpeg_codec.py (I tried to implement a full mock codec but I ran out of time). Takes as arguments: 
 - Filename: name of the image to encode (script will save encoded data in a .txt file in the same directory) \
-*Call it from terminal as: python jpeg_codec.py filename*
+*Call it from terminal as: python jpeg_codec.py filename* \
+*Try it with blade_runner.png !*
