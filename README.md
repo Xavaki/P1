@@ -1,3 +1,5 @@
+
+## Assignment by: Xavier Akira Pavon Namba · 217941 · SCAV 2021/2022 · UPF
 ### Practice 1 
 - unless otherwise indicated, all python functions have been coded from scratch.
 - All dependencies inside requirements.txt
